@@ -181,9 +181,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ### 🔗 Connect with GenZai
 
 [![Website](https://img.shields.io/badge/Website-genzai.in-blue?style=for-the-badge&logo=google-chrome)](https://genzai.in)
-[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/genzai)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Us-1da1f2?style=for-the-badge&logo=twitter)](https://twitter.com/genzai_dev)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail)](mailto:hello@genzai.in)
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord)](https://discord.gg/CqTnqa4V)
+[![X](https://img.shields.io/badge/X-Follow%20Us-000000?style=for-the-badge&logo=x)](https://x.com/genzaiin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow%20Us-0a66c2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/company/genzaibharat)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow%20Us-E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/genzai.in/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail)](mailto:reach@genzai.in)
+
 
 ### 💡 Questions? Issues? Ideas?
 - 🐛 **Bug Reports**: [Create an Issue](https://github.com/GenZaiBharat/genzai/issues)
