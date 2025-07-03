@@ -1,14 +1,12 @@
 # ⚡ GenZai - Prompt to Product
 
 <div align="center">
-  <img src="https://github.com/yourusername/genzai/assets/logo.png" alt="GenZai Logo" width="200"/>
+  <img src="https://github.com/GenZaiBharat/GenZaiBharat/blob/main/assets/logo_name.png?raw=true" alt="GenZai Logo" width="full"/>
   
   **AI-Powered Vibe Coding Platform for Gen Z Developers**
   
   [![Website](https://img.shields.io/badge/Website-genzai.in-blue)](https://genzai.in)
   [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-  [![Stars](https://img.shields.io/github/stars/yourusername/genzai)](https://github.com/yourusername/genzai/stargazers)
-  [![Forks](https://img.shields.io/github/forks/yourusername/genzai)](https://github.com/yourusername/genzai/network)
   
   *From idea to deployment in minutes, not hours* ⚡
 </div>
@@ -82,13 +80,10 @@ graph LR
 <div align="center">
   
 ### 🎨 Code Generation in Action
-![Code Generation](https://github.com/yourusername/genzai/assets/screenshots/code-generation.png)
+![Code Generation](https://github.com/GenZaiBharat/GenZaiBharat/blob/main/assets/generation.jpg?raw=true)
 
 ### 📱 Live Preview
-![Live Preview](https://github.com/yourusername/genzai/assets/screenshots/live-preview.png)
-
-### 🚀 One-Click Deployment
-![Deployment](https://github.com/yourusername/genzai/assets/screenshots/deployment.png)
+![Live Preview](https://github.com/GenZaiBharat/GenZaiBharat/blob/main/assets/preview.jpg?raw=true)
 
 </div>
 
@@ -132,52 +127,12 @@ graph LR
 ### 3. Local Development (Optional)
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/genzai.git
-cd genzai
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Open http://localhost:3000
+ Coming Soon...
 ```
-
-## 📖 Documentation & Resources
-
-- 📚 **[Full Documentation](https://docs.genzai.in)** - Complete guides and tutorials
-- 🎥 **[Video Tutorials](https://youtube.com/genzai)** - Learn by watching
-- 💬 **[Community Discord](https://discord.gg/genzai)** - Get help and share projects
-- 🐦 **[Twitter](https://twitter.com/genzai_dev)** - Latest updates and tips
-- 📧 **[Newsletter](https://genzai.in/newsletter)** - Weekly coding inspiration
 
 ## 🤝 Contributing
 
-We love contributions from the community! GenZai is built by Gen Z developers, for Gen Z developers.
-
-### 🔧 Development Setup
-
-```bash
-# Fork the repository
-git fork https://github.com/yourusername/genzai.git
-
-# Clone your fork
-git clone https://github.com/yourusername/genzai.git
-cd genzai
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-
-# Run tests
-npm test
-
-# Build for production
-npm run build
-```
+We love contributions from the community! GenZai is built by Gen Z developers, for Gen Z developers. Join Our Discord to contribute into Genzai
 
 ### 📝 Code Style
 - Use TypeScript for type safety
@@ -192,32 +147,6 @@ npm run build
 - 📚 Documentation and tutorials
 - 🌍 Internationalization
 
-## 🎉 Community Showcase
-
-### 🏆 Featured Projects Built with GenZai
-
-- **[WeatherVibe](https://weathervibe.com)** - AI-generated weather app with mood-based themes
-- **[CodeQuest](https://codequest.dev)** - Interactive coding challenges platform
-- **[VibeShop](https://vibeshop.store)** - E-commerce store built in 10 minutes
-
-> Want your project featured? Share it on our [Discord](https://discord.gg/genzai) with #showcase!
-
-## 📊 Stats & Metrics
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&repo=genzai&show_icons=true&theme=radical)
-
-| Metric | Value |
-|--------|-------|
-| 🚀 Projects Created | 10,000+ |
-| ⚡ Lines of Code Generated | 1M+ |
-| 🌍 Deployments | 5,000+ |
-| 👥 Active Users | 2,500+ |
-
-</div>
-
-## 🔮 Roadmap
 
 ### 🎯 Coming Soon
 - [ ] **Mobile App** - Code on the go
@@ -257,8 +186,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 [![Email](https://img.shields.io/badge/Email-Contact%20Us-red?style=for-the-badge&logo=gmail)](mailto:hello@genzai.in)
 
 ### 💡 Questions? Issues? Ideas?
-- 🐛 **Bug Reports**: [Create an Issue](https://github.com/yourusername/genzai/issues)
-- 💡 **Feature Requests**: [Start a Discussion](https://github.com/yourusername/genzai/discussions)
+- 🐛 **Bug Reports**: [Create an Issue](https://github.com/GenZaiBharat/genzai/issues)
+- 💡 **Feature Requests**: [Start a Discussion](https://github.com/GenZaiBharat/genzai/discussions)
 - 📧 **General Inquiries**: hello@genzai.in
 - 💬 **Community Chat**: [Join Discord](https://discord.gg/genzai)
 
